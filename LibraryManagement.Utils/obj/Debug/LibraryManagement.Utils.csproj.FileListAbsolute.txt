@@ -1,0 +1,5 @@
+C:\Vineet\extra\jobs\3P\LibraryManagement\LibraryManagement.Utils\bin\Debug\LibraryManagement.Utils.dll
+C:\Vineet\extra\jobs\3P\LibraryManagement\LibraryManagement.Utils\bin\Debug\LibraryManagement.Utils.pdb
+C:\Vineet\extra\jobs\3P\LibraryManagement\LibraryManagement.Utils\obj\Debug\LibraryManagement.Utils.csprojResolveAssemblyReference.cache
+C:\Vineet\extra\jobs\3P\LibraryManagement\LibraryManagement.Utils\obj\Debug\LibraryManagement.Utils.dll
+C:\Vineet\extra\jobs\3P\LibraryManagement\LibraryManagement.Utils\obj\Debug\LibraryManagement.Utils.pdb

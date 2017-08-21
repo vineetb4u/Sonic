@@ -1,0 +1,13 @@
+C:\Vineet\extra\jobs\3P\LibraryManagement\LibraryManagement.Services\bin\Debug\LibraryManagement.Services.dll
+C:\Vineet\extra\jobs\3P\LibraryManagement\LibraryManagement.Services\bin\Debug\LibraryManagement.Services.pdb
+C:\Vineet\extra\jobs\3P\LibraryManagement\LibraryManagement.Services\bin\Debug\LibraryManagement.Models.dll
+C:\Vineet\extra\jobs\3P\LibraryManagement\LibraryManagement.Services\bin\Debug\LibraryManagement.Models.pdb
+C:\Vineet\extra\jobs\3P\LibraryManagement\LibraryManagement.Services\obj\Debug\LibraryManagement.Services.csprojResolveAssemblyReference.cache
+C:\Vineet\extra\jobs\3P\LibraryManagement\LibraryManagement.Services\obj\Debug\LibraryManagement.Services.dll
+C:\Vineet\extra\jobs\3P\LibraryManagement\LibraryManagement.Services\obj\Debug\LibraryManagement.Services.pdb
+C:\Vineet\extra\jobs\3P\LibraryManagement\LibraryManagement.Services\bin\Debug\LibraryManagement.Data.dll
+C:\Vineet\extra\jobs\3P\LibraryManagement\LibraryManagement.Services\bin\Debug\LibraryManagement.Data.pdb
+C:\Vineet\extra\jobs\3P\LibraryManagement\LibraryManagement.Services\bin\Debug\Newtonsoft.Json.dll
+C:\Vineet\extra\jobs\3P\LibraryManagement\LibraryManagement.Services\bin\Debug\Newtonsoft.Json.xml
+C:\Vineet\extra\jobs\3P\LibraryManagement\LibraryManagement.Services\bin\Debug\LibraryManagement.Utils.dll
+C:\Vineet\extra\jobs\3P\LibraryManagement\LibraryManagement.Services\bin\Debug\LibraryManagement.Utils.pdb
